@@ -1,0 +1,2 @@
+Derived x;
+//    x.greet();
